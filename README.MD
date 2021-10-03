@@ -4,4 +4,4 @@
 - 🌱 I’m currently pursuing Bachelors degree in Computer Science And Engineering at Visvesvaraya National Institue Of Technology.
 - 📫 How to reach me ?    
         [LinkedIn](linkedin.com/in/neeraj-thazhekuniyil/)    
-        📧:neeraj.thazhekuniyil@gmail.com
+        📧: neeraj.thazhekuniyil@gmail.com
